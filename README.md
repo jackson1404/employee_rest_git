@@ -39,5 +39,12 @@ Swagger UI is integrated into the project for easy API documentation and testing
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
 
+## Contact
+
+For any inquiries or feedback regarding the Employee Management System, please contact:
+
+- Win Min Thant : [jackson14042004@gmail.com](mailto:john.doe@example.com)
+
+
 
 
