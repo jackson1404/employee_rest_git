@@ -22,14 +22,14 @@ This is an Employee Management System built using the Spring Framework. It provi
 
 ## Getting Started
 
-To run the Employee Management System locally, follow these steps:
+To get started with the Employee Management System, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/employee-management-system.git`
-2. Navigate to the project directory: `cd employee-management-system`
-3. Configure the database settings in `application.properties`.
-4. Build the project: `mvn clean package`
-5. Run the application: `java -jar target/employee-management-system.jar`
-6. Access the application at `http://localhost:8080`
+1. Download the latest release zip file from the [Releases](https://github.com/jackson1404/employee-management-system/releases) page.
+2. Extract the contents of the zip file to a directory of your choice.
+3. Configure the database settings by editing the `application.properties` file.
+4. Open a terminal or command prompt and navigate to the directory where you extracted the files.
+5. Run the application using the following command:
+
 
 ## API Documentation
 
