@@ -39,7 +39,5 @@ Swagger UI is integrated into the project for easy API documentation and testing
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
