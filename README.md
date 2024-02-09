@@ -17,8 +17,8 @@ This is an Employee Management System built using the Spring Framework. It provi
 - Spring Boot
 - Spring Data JPA
 - Spring Security
-- Swagger (OpenAPI)
-- MySQL (or your preferred database)
+- Swagger
+- Postgres SQL
 
 ## Getting Started
 
